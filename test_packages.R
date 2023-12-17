@@ -1,3 +1,3 @@
 library(DBI)
-library(tidyverse) # Why does this shit not work?
+library(tidyverse) # this is so wierd
 library(RPostgres)
