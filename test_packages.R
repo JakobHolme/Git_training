@@ -1,2 +1,2 @@
-library(RPostgres) 
-library(tidyverse) # Often used by nerds and money seekers
+library(ggplot2)
+library(shiny) # Often used by me panicking before the exam
