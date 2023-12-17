@@ -1,2 +1,3 @@
-library(ggplot2)
-library(shiny) # Often used by me panicking
+library(DBI)
+library(tidyverse) # Often used in data science
+library(RPostgres)
